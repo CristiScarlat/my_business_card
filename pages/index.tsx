@@ -11,15 +11,22 @@ const Home: NextPage = () => {
           <h3>Software developer </h3>
           <h4 className="text-secondary">Timişoara, Timiş, Romania</h4>
           <div>
-            <a href="https://github.com/CristiScarlat" target="_blank">
-              <BsGithub style={{height: "1.5rem", width: "1.5rem"}} 
-              className="me-3"/>
+            <a
+              href="https://github.com/CristiScarlat"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <BsGithub
+                style={{ height: "1.5rem", width: "1.5rem" }}
+                className="me-3"
+              />
             </a>
             <a
               href="https://www.linkedin.com/in/cristian-scarlat-6839a942"
               target="_blank"
+              rel="noreferrer"
             >
-              <BsLinkedin style={{height: "1.5rem", width: "1.5rem"}}/>
+              <BsLinkedin style={{ height: "1.5rem", width: "1.5rem" }} />
             </a>
           </div>
         </div>
@@ -214,7 +221,7 @@ const Home: NextPage = () => {
           <div>
             <h4>Universitatea din Oradea</h4>
             <h5>{`Bachelor’s Degree (Univ. Tehinca Oradea), IT software`}</h5>
-            <a href="https://ieti.uoradea.ro/ro/" target="_blank">
+            <a href="https://ieti.uoradea.ro/ro/" target="_blank" rel="noreferrer">
               https://ieti.uoradea.ro/ro/
             </a>
           </div>
