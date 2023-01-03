@@ -37,12 +37,12 @@ const Home: NextPage = () => {
         <article>
           <h3 id="summary">Summary</h3>
           <p>
-            I am a highly motivated front-end developer, with a background in
+            I am a highly motivated web developer, with a background in
             software and electrical engineering. I am very much in love with
-            javascript programming and I like to be involved in any project that
-            needs javascript knowledge and frontend specific work. I consider my
-            self an experienced UI developer trained in HTML5, CSS3, javascript,
-            SASS, Webpack, ReactJs, Redux, Context API. UI development is my
+            software development and I love to be involved in any project that
+            needs javascript, NodeJS knowledge and frontend specific work. I consider my
+            self an experienced web developer trained in HTML5, CSS3, javascript,
+            SASS, Webpack, ReactJs, Redux, Context API, Express. Web development is my
             hobby today, and it is a means to continue my love for
             microcontrollers programming in IoT projects, where my
             microcontroller knowledge and Web development knowledge are merged.
